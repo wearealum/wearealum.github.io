@@ -52,10 +52,20 @@ section {
 }
 
 footer {
-    background-color: #333;
-    color: #fff;
+    background-color: #f8f9fa;
+    padding: 20px 0;
     text-align: center;
-    padding: 10px 0;
-    bottom: 0;
-    width: 100%;
 }
+
+.social-links a {
+    color: #333;
+    font-size: 20px;
+    margin: 0 10px;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.social-links a:hover {
+    color: #007bff;
+}
+
