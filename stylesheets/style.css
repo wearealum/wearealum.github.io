@@ -50,3 +50,10 @@ section {
     border-radius: 5px;
     box-shadow: 0 2px 4px rgba(255,255,255,0.1); /* Light shadow */
 }
+
+footer {
+    background-color: #333; /* Dark footer background color */
+    color: #fff; /* Light text color */
+    text-align: center;
+    padding: 20px;
+}
