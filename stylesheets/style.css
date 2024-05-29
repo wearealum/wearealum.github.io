@@ -51,6 +51,10 @@ section {
     box-shadow: 0 2px 4px rgba(255,255,255,0.1); /* Light shadow */
 }
 
+.contact-link {
+    margin-right: 20px; /* Adjust the value as needed */
+}
+
 footer {
     background-color: #333; /* Dark footer background color */
     color: #fff; /* Light text color */
